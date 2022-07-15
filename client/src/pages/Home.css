@@ -1,0 +1,26 @@
+.about{
+    margin-top: 200px;
+}
+
+.aboutwords{
+   width: 900px;
+   margin: 0 auto;
+}
+
+.Komoruthree{
+    display: flex;
+    justify-content: space-around;
+}
+
+.Homepic{
+    margin-left : auto;
+	margin-right: auto;
+    width: 1920px;
+    height:950px;
+}
+
+.RoomList{
+    display: flex;
+    justify-content: space-around;
+}
+
